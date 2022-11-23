@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: doctor1
+server:
+  port: 8011
